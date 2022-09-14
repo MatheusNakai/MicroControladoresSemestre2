@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+board
+adafruit_bme280
