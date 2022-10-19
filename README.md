@@ -1,5 +1,9 @@
 # MicroControladoresSemestre2 <br />
-url: https://stem.ubidots.com/app/dashboards/public/dashboard/jq8NrGbdTj_6dx5mZbR0ceHZzjmI3p772rFHTXxv-qI
+ubidots url: https://stem.ubidots.com/app/dashboards/public/dashboard/jq8NrGbdTj_6dx5mZbR0ceHZzjmI3p772rFHTXxv-qI
+
+## Vídeo
+url: https://youtube.com/shorts/PffhLc5q2U0?feature=share
+
 ## Integrantes:
 Fernando Oliveira         RA: 19.00617-9 <br />
 Gustavo Zamboni do Carmo  RA: 19.01266-7 <br />
