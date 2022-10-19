@@ -11,5 +11,5 @@ Matheus Nakai             RA: 19.01355-8 <br />
 ## Node Red Dashboard
 <img src="https://github.com/MatheusNakai/MicroControladoresSemestre2/blob/main/NodeRedDashboard.PNG?raw=true" />
 <br />
-Ubidosts Dashboard
+Ubidots Dashboard
 <img src= "https://github.com/MatheusNakai/MicroControladoresSemestre2/blob/main/UbidotsDashboard.PNG?raw=true" />
